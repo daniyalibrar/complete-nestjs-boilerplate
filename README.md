@@ -15,7 +15,7 @@
 
 # Complete NestJs Boilerplate 🔥 🚀
 # Documentation
-[https://doc.complete-nestjs-boilerplate.fedidayeg.fr/]
+Documentation: [https://doc.complete-nestjs-boilerplate.fedidayeg.fr/]
 
 
 [Complete NestJs][ref-ack] is a [NestJs v11.x][ref-nestjs] boilerplate designed for backend services. Production-ready NestJS boilerplate with authentication, authorization, and enterprise features
